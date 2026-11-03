@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@staypilot/shared-types": "*",
+    "@staypilot/shared-types": "workspace:*",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "lucide-react": "^0.379.0",

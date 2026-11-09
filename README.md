@@ -46,6 +46,8 @@ npm run prisma:push --workspace=apps/api
 
 # Seed realistic Cambodian boutique hotel data
 npm run prisma:seed --workspace=apps/api
+
+
 ```
 
 ### 4. Start Development Servers
